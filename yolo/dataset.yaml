@@ -1,3 +1,4 @@
+
 path: /home/estaid/dev/CV_car_number_plate_detection/yolo
 train: images/train
 val: images/val

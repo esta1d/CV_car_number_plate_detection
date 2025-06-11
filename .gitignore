@@ -4,3 +4,4 @@
 *.log
 *.pt
 *.jpg
+*.torchscript
