@@ -52,5 +52,10 @@ CV_CAR_NUMBER_PLATE_DETECTION/
 └── yolov5_predictions.csv   # Final prediction output file
 ```
 
+## Libraries and the learning process
 
+This repository is dedicated to the task of automatically recognizing vehicle registration plates using computer vision methods. The following [libraries]() were used in the project.
 
+The solution to this case can be found [here](https://github.com/esta1d/CV_car_number_plate_detection/blob/main/car.ipynb).
+
+The project also has a deployment on a server where you can upload an image and see the model's output. [Server link](http://64.188.99.24:5001/).
