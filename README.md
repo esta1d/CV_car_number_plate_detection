@@ -66,21 +66,21 @@ To check the functionality of the model, follow the link above. The following pa
 
 > Please pay attention to the fact that the page does not have a certificate, so the browser will complain that the page is not `HTTPS`
 
-![alt text](image.png)
+![alt text](images/image.png)
 
 Click on choose file and upload it. The form accepts png jpg files only. Uploading an image and processing the image by the model takes on average 5 seconds.
 
 ### Model output
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 
 ## Learning Metrics
 
 ### confusion_matrix
-![alt text](yolov5/runs/val/exp/confusion_matrix.png)
+![alt text](images/confusion_matrix.png)
 
 ### F1_curve
-![alt text](yolov5/runs/val/exp/F1_curve.png)
+![alt text](images/F1_curve.png)
 
 ## General links
 
