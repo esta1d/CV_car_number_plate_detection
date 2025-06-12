@@ -86,7 +86,7 @@ Click on choose file and upload it. The form accepts png jpg files only. Uploadi
 
 * ***[Solution](https://github.com/esta1d/CV_car_number_plate_detection/blob/main/car.ipynb)***
 * ***[Libraries](https://github.com/esta1d/CV_car_number_plate_detection/blob/main/requirements.txt)***
-* ***[Repository](https://github.com/ultralytics/yolov5) ultralytics/yolov5 ***
+* ***[Repository](https://github.com/ultralytics/yolov5)*** ***ultralytics/yolov5***
 * ***[Web application](http://64.188.99.24:5001/) (for demonstrating the model)***
 
 ## Conclusion
