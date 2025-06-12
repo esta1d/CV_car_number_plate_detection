@@ -13,6 +13,7 @@ The project CV_car_number_plate_detection is a solution for detecting car licens
 * **Security system:** Detection and identification of vehicles can be utilized for traffic control and preventing road violations.
 * **Traffic management:** Automated vehicle tracking simplifies traffic flow management and data collection.
 
+<img src="https://habrastorage.org/webt/cs/te/hx/cstehxj5rouuyq0jzox2to4vvi8.gif" width="100%">
 
 ## Project structure
 
