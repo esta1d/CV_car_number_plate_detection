@@ -72,3 +72,22 @@ Click on choose file and upload it. The form accepts png jpg files only. Uploadi
 
 ### Model output
 ![alt text](image-1.png)
+
+
+## Learning Metrics
+
+### confusion_matrix
+![alt text](yolov5/runs/val/exp/confusion_matrix.png)
+
+### F1_curve
+![alt text](yolov5/runs/val/exp/F1_curve.png)
+
+## General links
+
+* ***[Solution](https://github.com/esta1d/CV_car_number_plate_detection/blob/main/car.ipynb)***
+* ***[Libraries](https://github.com/esta1d/CV_car_number_plate_detection/blob/main/requirements.txt)***
+* ***[Repository] ultralytics/yolov5 (https://github.com/ultralytics/yolov5)***
+* ***[Web application](http://64.188.99.24:5001/) (for demonstrating the model)***
+
+## Conclusion
+The CV_car_number_plate_detection project provides a versatile solution for automatic vehicle license plate recognition, which can be adapted for various tasks related to transportation and security. We hope that this project will become a useful tool for developers and researchers working in the fields of computer vision and machine learning.
