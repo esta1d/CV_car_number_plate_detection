@@ -1,6 +1,9 @@
+/data/**/*.png
+/data/**/*.jpg
+/yolo/**/**/**/*.png
+/yolo/**/**/**/*.jpg
+/runs/**/*.jpg
 *.xml
-*.png
 *.log
 *.pt
-*.jpg
 *.torchscript

@@ -59,3 +59,16 @@ This repository is dedicated to the task of automatically recognizing vehicle re
 The solution to this case can be found ***[here](https://github.com/esta1d/CV_car_number_plate_detection/blob/main/car.ipynb)***.
 
 The project also has a deployment on a server where you can upload an image and see the model's output. ***[Server link](http://64.188.99.24:5001/)***.
+
+## Web application for checking the model
+
+To check the functionality of the model, follow the link above. The following page will open:
+
+> Please pay attention to the fact that the page does not have a certificate, so the browser will complain that the page is not `HTTPS`
+
+![alt text](image.png)
+
+Click on choose file and upload it. The form accepts png jpg files only. Uploading an image and processing the image by the model takes on average 5 seconds.
+
+### Model output
+![alt text](image-1.png)
